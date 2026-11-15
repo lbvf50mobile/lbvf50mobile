@@ -23,4 +23,4 @@ What could be useful for you:
 
 **Philosophy:**
 
-![one must learn By doing the thing; for though you think you know it You have no certainy untill you try. Sophocles, translated by Sir Gorge Young. Everyman Edition](quote.png)
+![one must learn By doing the thing; for though you think you know it You have no certainy untill you try. Sophocles, translated by Sir Gorge Young. Everyman Edition | from Eric M. Rogers Physics for the Inquiring Mind](quote.png)
