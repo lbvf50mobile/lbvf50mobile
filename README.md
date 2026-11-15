@@ -8,7 +8,7 @@ What could be useful for you:
 
 **UNIX:**
 
-- [AboutRake](https://github.com/lbvf50mobile/aboutrake) - Note about Rake - The Rake's main purpose run scripts depending on a file editing time. Rake is a **"scheduler" for generation scripts**: count prerequisites, check timestamps, run scripts for regenarate files if needs too. Important thing that's too opaque in official documentation. Need to fix this flaw.
+- [AboutRake](https://github.com/lbvf50mobile/aboutrake) - Note about Rake - The Rake's main purpose is to run scripts depending on a file editing time. Rake is a **"scheduler" for generation scripts**: count prerequisites, check timestamps, run scripts for regenarate files if needs too. Important thing that's too opaque in official documentation. Need to fix this flaw.
 - [APUE 2.5.4](https://github.com/lbvf50mobile/apue254) - in case you are reading APUE. Here some AI generated extensions to UNIX limits table, set of descriptions for each limit, part of them checked twice in different LLM, part does not.
 
 **Mandarin:**
