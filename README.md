@@ -4,20 +4,19 @@ What could be useful for you:
 
 ## Algorithms:
 
-https://github.com/lbvf50mobile/til - 2019-2025 Leetcode Grit. Diary with code and text description of solution.
+- [Til](https://github.com/lbvf50mobile/til) - 2019-2025 Leetcode Grit. Diary with code and text description of solution.
 
-## UNIX:
+**UNIX:**
 
-https://github.com/lbvf50mobile/aboutrake - Note about Rake - its main purpose run scripts depending on file editing time. Important thing that's too opaque in official documentation. Need to fix this flaw.
+- [AboutRake](https://github.com/lbvf50mobile/aboutrake) - Note about Rake - its main purpose run scripts depending on file editing time. Important thing that's too opaque in official documentation. Need to fix this flaw.
+- [APUE 2.5.4](https://github.com/lbvf50mobile/apue254) - in case you are reading APUE extensions to UNIX limits table.
 
-https://github.com/lbvf50mobile/apue254 - in case you are reading APUE extensions to UNIX limits table.
+**Mandarin:**
 
-## Mandarin:
+- [Hanzi Drill](https://github.com/lbvf50mobile/hanzidrill) - Hanzi cards with stroke orders and sounds.
+- [Qian](https://github.com/lbvf50mobile/qian) - CLI tool for learning Hanzi numbers representation, harsh UNIX ways REPL. But useful. For ones who are in the Terminal.
 
-https://github.com/lbvf50mobile/hanzidrill - Hanzi cards with stroke orders and sounds.
+**Sites:**
 
-https://github.com/lbvf50mobile/qian - CLI tool for learning Hanzi numbers representation, harsh UNIX ways REPL. But useful. For ones who are in the Terminal.
-
-## Sites:
-- https://lbvf50mobile.github.io/hanzidrill/
-- https://lbvf50mobile.github.io/apue254/
+- [Hanzi Drill Cards](https://lbvf50mobile.github.io/hanzidrill/)
+- [APUE 2.5.4 Tables](https://lbvf50mobile.github.io/apue254/)
