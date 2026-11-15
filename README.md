@@ -8,7 +8,7 @@ What could be useful for you:
 
 **UNIX:**
 
-- [AboutRake](https://github.com/lbvf50mobile/aboutrake) - Note about Rake - its main purpose run scripts depending on file editing time. Important thing that's too opaque in official documentation. Need to fix this flaw.
+- [AboutRake](https://github.com/lbvf50mobile/aboutrake) - Note about Rake - The Rake's main purpose run scripts depending on a file editing time. Rake is a **"scheduler" for generation scripts**: count prerequisites, check timestamps, wirrun scripts. Important thing that's too opaque in official documentation. Need to fix this flaw.
 - [APUE 2.5.4](https://github.com/lbvf50mobile/apue254) - in case you are reading APUE extensions to UNIX limits table.
 
 **Mandarin:**
