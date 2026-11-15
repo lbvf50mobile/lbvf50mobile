@@ -4,7 +4,7 @@ What could be useful for you:
 
 **Algorithms:**
 
-- [Til](https://github.com/lbvf50mobile/til) - 2019-2025 Leetcode Grit. Diary with code and text description of solution.
+- [Til](https://github.com/lbvf50mobile/til) - 2019-2025 Leetcode Grit. Diary with code and text description of a solution.
 
 **UNIX:**
 
